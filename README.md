@@ -1,3 +1,14 @@
+# React Image Search Test
+This react app allows you to search for any image using the pixabay API.
+Type what you want to search on the search bar and if there is a match, a list of images will be displayed.
+
+# How to run:
+clone repo
+npm install
+npm start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
